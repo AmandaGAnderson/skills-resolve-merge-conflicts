@@ -1,7 +1,3 @@
-Some contents here
+# References
 
-Designed to conflict with main branch to create a merge conflict
-
-# Title
-
-Info on references
+* octocat 1 😈
